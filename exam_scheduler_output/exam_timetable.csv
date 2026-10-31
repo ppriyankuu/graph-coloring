@@ -1,0 +1,43 @@
+slot,date,weekday,session,time,subject_code,subject_name,subject_type,students
+1,16-11-2026,Monday,Morning,09:00-12:00,OE02,Introduction to Cybersecurity,OPEN_ELECTIVE,39
+2,16-11-2026,Monday,Afternoon,13:00-16:00,OE03,Data Science Fundamentals,OPEN_ELECTIVE,25
+3,17-11-2026,Tuesday,Morning,09:00-12:00,OE04,Cloud Computing Essentials,OPEN_ELECTIVE,41
+4,17-11-2026,Tuesday,Afternoon,13:00-16:00,OE07,Mathematics for Computing,OPEN_ELECTIVE,29
+5,18-11-2026,Wednesday,Morning,09:00-12:00,OE01,Graph Theory and Applications,OPEN_ELECTIVE,29
+5,18-11-2026,Wednesday,Morning,09:00-12:00,OE05,Artificial Intelligence Basics,OPEN_ELECTIVE,27
+6,18-11-2026,Wednesday,Afternoon,13:00-16:00,OE06,Web Development,OPEN_ELECTIVE,22
+6,18-11-2026,Wednesday,Afternoon,13:00-16:00,OE08,Database and SQL Fundamentals,OPEN_ELECTIVE,26
+7,19-11-2026,Thursday,Morning,09:00-12:00,OE09,Operating Systems Concepts,OPEN_ELECTIVE,34
+8,19-11-2026,Thursday,Afternoon,13:00-16:00,BTS5C01,Operating Systems,CORE,18
+8,19-11-2026,Thursday,Afternoon,13:00-16:00,OE10,Digital Privacy and IT Security,OPEN_ELECTIVE,28
+9,20-11-2026,Friday,Morning,09:00-12:00,BTS1C01,Engineering Mathematics I,CORE,19
+9,20-11-2026,Friday,Morning,09:00-12:00,BTS3C01,Data Structures,CORE,19
+9,20-11-2026,Friday,Morning,09:00-12:00,BTS5C02,Database Systems,CORE,18
+9,20-11-2026,Friday,Morning,09:00-12:00,BTS7C01,Information Security,CORE,18
+9,20-11-2026,Friday,Morning,09:00-12:00,MCA1C01,Programming Fundamentals,CORE,19
+9,20-11-2026,Friday,Morning,09:00-12:00,MCA3C01,Operating Systems,CORE,19
+9,20-11-2026,Friday,Morning,09:00-12:00,MTS1C01,Advanced Programming,CORE,19
+9,20-11-2026,Friday,Morning,09:00-12:00,MTS3C01,Parallel Computing,CORE,19
+10,20-11-2026,Friday,Afternoon,13:00-16:00,BTS1C02,Programming in C,CORE,19
+10,20-11-2026,Friday,Afternoon,13:00-16:00,BTS3C02,Digital Logic Design,CORE,19
+10,20-11-2026,Friday,Afternoon,13:00-16:00,BTS5C03,Computer Networks,CORE,18
+10,20-11-2026,Friday,Afternoon,13:00-16:00,BTS7C02,Artificial Intelligence,CORE,18
+10,20-11-2026,Friday,Afternoon,13:00-16:00,MCA1C02,Discrete Mathematics,CORE,19
+10,20-11-2026,Friday,Afternoon,13:00-16:00,MCA3C02,Database Management Systems,CORE,19
+10,20-11-2026,Friday,Afternoon,13:00-16:00,MTS1C02,Advanced Mathematics,CORE,19
+10,20-11-2026,Friday,Afternoon,13:00-16:00,MTS3C02,Machine Learning,CORE,19
+11,21-11-2026,Saturday,Morning,09:00-12:00,BTS1C03,Basic Electrical Engineering,CORE,19
+11,21-11-2026,Saturday,Morning,09:00-12:00,BTS3C03,Discrete Mathematics,CORE,19
+11,21-11-2026,Saturday,Morning,09:00-12:00,BTS5C04,Theory of Computation,CORE,18
+11,21-11-2026,Saturday,Morning,09:00-12:00,BTS7C03,Cloud Computing,CORE,18
+11,21-11-2026,Saturday,Morning,09:00-12:00,MCA1C03,Computer Organization,CORE,19
+11,21-11-2026,Saturday,Morning,09:00-12:00,MCA3C03,Computer Networks,CORE,19
+11,21-11-2026,Saturday,Morning,09:00-12:00,MTS1C03,Algorithms,CORE,19
+11,21-11-2026,Saturday,Morning,09:00-12:00,MTS3C03,Advanced Database Systems,CORE,19
+12,21-11-2026,Saturday,Afternoon,13:00-16:00,BTS1C04,Engineering Physics,CORE,19
+12,21-11-2026,Saturday,Afternoon,13:00-16:00,BTS3C04,Object-Oriented Programming,CORE,19
+12,21-11-2026,Saturday,Afternoon,13:00-16:00,BTS7C04,Project Management,CORE,18
+12,21-11-2026,Saturday,Afternoon,13:00-16:00,MCA1C04,Data Structures,CORE,19
+12,21-11-2026,Saturday,Afternoon,13:00-16:00,MCA3C04,Software Engineering,CORE,19
+12,21-11-2026,Saturday,Afternoon,13:00-16:00,MTS1C04,Research Methodology,CORE,19
+12,21-11-2026,Saturday,Afternoon,13:00-16:00,MTS3C04,Distributed Systems,CORE,19
